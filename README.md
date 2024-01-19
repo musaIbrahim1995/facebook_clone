@@ -16,6 +16,9 @@ A new Flutter project.
 94106903)
 ![Screenshot_1705498278](https://github.com/musaIbrahim1995/facebook_clone/assets/155387726/4cccb1c6-e811-4912-af5f-62eb23ec3c73)
 ![Screenshot_1705494880](https://github.com/musaIbrahim1995/facebook_clone/assets/155387726/3412320a-2920-4e07-b1c9-726778b5e429)
+![Screenshot_1705499542](https://github.com/musaIbrahim1995/facebook_clone/assets/155387726/882f39be-3a4f-4629-a82b-c61e6dad50ef)
+![Screenshot_1705499515](https://github.com/musaIbrahim1995/facebook_clone/assets/155387726/49e449ac-6c78-4573-83a1-64dcdc8f3782)
+
 
 This project is called facebook clone application fullstack.
 
